@@ -8,5 +8,5 @@ I'm an undergraduate at Northern Virginia Community College as an Information Te
 - I was a Product Design Intern with Northern Virginia Community College.
 
 <h1> Skills and Technologies </h1>
--Libraries: TensorFlow, NumPy, Matplotlib, React, PyTorch, Flask, Scikit-learn, Pandas, Statsmodels
--Coding Languages: Python, Java, HTML/CSS, JavaScript/TypeScript, SQL, C#, Unity
+- Libraries: TensorFlow, NumPy, Matplotlib, React, PyTorch, Flask, Scikit-learn, Pandas, Statsmodels
+- Coding Languages: Python, Java, HTML/CSS, JavaScript/TypeScript, SQL, C#, Unity
